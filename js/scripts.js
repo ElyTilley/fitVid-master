@@ -1,0 +1,2 @@
+// Awesome Interaction
+$('header').fitVids();
